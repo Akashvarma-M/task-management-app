@@ -32,5 +32,4 @@ The Task Management Application is a React-based web application that allows use
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Author
-Vifert Jenuben Daniel V
+
