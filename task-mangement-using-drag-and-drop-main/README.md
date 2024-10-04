@@ -11,20 +11,6 @@ The Task Management Application is a React-based web application that allows use
 - Responsive design for use on various devices
 - Dark mode toggle for comfortable viewing
 
-## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/task-management-app.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd task-management-app
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
 ## Usage
 1. Start the development server:
    ```
